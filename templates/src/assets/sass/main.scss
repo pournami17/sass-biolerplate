@@ -1,0 +1,8 @@
+@import "helpers/mixins";
+
+@include font-face('Aileron', 'aileron-light', 'Aileron')
+p {
+	background: black;
+	color: green;
+	font-family: "Aileron";
+}
